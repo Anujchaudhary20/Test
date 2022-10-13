@@ -1,2 +1,2 @@
 # Test
-teat repo
+teat repo for git
